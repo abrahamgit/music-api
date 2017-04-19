@@ -5,7 +5,7 @@ var upload = multer();
 
 var app = express();
 
-app.use(cookieParser());
+//app.use(cookieParser());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(upload.array());

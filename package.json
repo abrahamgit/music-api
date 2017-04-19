@@ -1,0 +1,22 @@
+{
+  "name": "music-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrahamgit/music-api.git"
+  },
+  "author": "abraham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrahamgit/music-api/issues"
+  },
+  "homepage": "https://github.com/abrahamgit/music-api#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
